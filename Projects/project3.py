@@ -26,7 +26,7 @@ t4 = create_sprite("fish.gif",x4,y4)
 # TODO - set how much each variable changes by and increase the number of repeats to at least 30
 # TODO - explain here which sprites are faster or slower
 # the range for the dolphin is the most naturally fast because in real life it is the fastest 
-# the dolfin also has a 30 persent speed and the 
+# the dolphin also has a 30 preset speed and the only thing that can beat it is the stingray and it only has a 25% chance 
 # 
 # 
 
