@@ -51,7 +51,7 @@ for i in range(30):
 if x1 >= x2 and x1 >= x3 and x1 >= x4:
     print("player 1 wins!")
 elif x2 >= x1 and x2 >= x3 and x2 >= x4:
-    print("player 2 wins!")
+    print("player 2 wins!!!!!!!!!!!!!!!")
 elif x3 >= x1 and x3 >= x2 and x3 >= x4:
     print("player 3 wins!")
 elif x4 >= x3 and x4 >= x2 and x4 >= x1:
