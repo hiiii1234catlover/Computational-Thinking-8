@@ -5,7 +5,7 @@ def run_cool_tester():
     print("Welcome to the Cool Tester 3000!")
     print("Test your knowledge and see if you are cool enough to proceed.")
 
-    secret_code = "cool"
+    secret_code = "fire"
     
     while True:
         # Get user input
