@@ -3,7 +3,7 @@ from utils import *
 
 # Section 1 - setup
 # TODO - set a background using set_background()
-
+# the goal of this game is to feed your snake and get it to age 4 and health 100 so it will turn in to a dragon 
 # TODO - create at least two variables and set their starting value. ex: cookies = 0
 set_background("jungle.gif")
 food = 9
