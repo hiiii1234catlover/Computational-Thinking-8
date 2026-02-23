@@ -46,9 +46,6 @@ window.onkeypress(feed_pet,"space")
 
 
     
-
-
-
 # Section 3 - game loop
 window.listen()
 for i in range(1000000000):
@@ -93,7 +90,7 @@ for i in range(1000000000):
     
     if health >= 100 and age >= 4:
         print ("you win !!!!")
-        set_image(s1,"dragon")
+        set_image(s1,"scaly")
         window.update()
         time.sleep(3)
         break
